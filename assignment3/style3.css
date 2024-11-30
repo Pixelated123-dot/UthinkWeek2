@@ -1,0 +1,70 @@
+.head{
+    color:black;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center
+}
+.orange_head{
+    color: orangered;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Arial", sans-serif;
+}
+.paragraph{
+    color:black;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Arial", sans-serif;
+}
+
+.orange_paragraph{
+    color: orangered;
+    font-size: 30px;
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+}
+
+
+.fixed{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgb(212, 100, 9);
+    width: auto;
+    margin: auto;
+    padding: 15px;
+    border-radius: 5px;
+    font-family: "Arial", sans-serif;
+}
+
+.parent {
+    position: relative;
+    background-color: blue;
+    color: white;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 5px;
+    font-family: "Arial", sans-serif;
+}
+
+.child {
+    position: relative;
+    background-color: green;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+    font-family: "Arial", sans-serif;
+}
+
+.absolute {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: orange;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-family: "Arial", sans-serif;
+}
+
