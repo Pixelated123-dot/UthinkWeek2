@@ -1,5 +1,47 @@
-.container{
-    cplor: red;
-    background-color: blue;
+body{
+    font-family: "inter", sans-serif;
+    font-style:italic;
+    font-weight: 500;
 }
 
+div{
+    margin-top: 50px;
+    margin-left: auto;;
+    margin-right: auto;
+    padding: 10px;
+    border-style: dotted;
+    border-color: red;
+    border-width: 10px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    overflow: auto;
+    justify-content: space-between;
+}
+
+h1{
+    text-align: center;
+}
+
+#head1{
+    color: red;
+    height: 50%;
+}
+#head2{
+    color: blue;
+}
+
+.head3{
+    color: #497fd6;
+}
+.head4{
+    color: rgba(225, 99, 00, 0.8);
+}
+
+.paragraph{
+    color: gray;
+    font-size: 16px;
+    padding: 1px;
+    border-style: solid;
+}
+    

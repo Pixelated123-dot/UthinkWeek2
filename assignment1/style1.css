@@ -1,0 +1,91 @@
+.head{
+    color:black;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Arial", sans-serif;
+}
+.orange_head{
+    color: orangered;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Arial", sans-serif;
+}
+
+.paragraph{
+    color:black;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Arial", sans-serif;
+}
+
+.orange_paragraph{
+    color: orangered;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Arial", Arial, sans-serif;
+}
+
+.prompt{
+    font-family: "Prompt", serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.arial{
+    font-family: "Arial",  Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+}
+
+.inter{
+    font-family: "inter", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.blue{
+    background-color: rgb(12, 112, 226);
+    color: white;
+    font-family: "Arial", sans-serif;
+}
+
+.black{
+    background-color: black;
+    color: yellow;
+    font-family: "Arial", sans-serif;
+}
+.box1{
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: rgb(93, 33, 204);
+    color: white;
+    font-family: "Arial", sans-serif;
+    display: inline-block;
+}
+
+.box2{
+    margin-top: 100px;
+    padding: 100px;
+    background-color: rgb(93, 33, 204);
+    color: white;
+    display: inline-block;
+    font-family: "Arial", sans-serif;
+}
+
+.box3{
+
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(93, 33, 204);
+    color: white;
+    display: inline-block;
+    font-family: "Arial", sans-serif;
+
+}
+
+.list{
+    font-family: "Arial", sans-serif;
+}
