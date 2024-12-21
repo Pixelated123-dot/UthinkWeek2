@@ -55,25 +55,34 @@
     color: yellow;
     font-family: "Arial", sans-serif;
 }
+
+.BOX{
+    display: flex;
+    flex-direction: column;
+    gap: 16px; /* ช่องว่างระหว่างกล่อง */
+}
+
+
 .box1{
     text-align: center;
     padding-top: 16px;
     padding-bottom: 16px;
     padding-left: 40px;
     padding-right: 40px;
+    margin-bottom: 16px;
     background-color: rgb(93, 33, 204);
     color: white;
     font-family: "Arial", sans-serif;
-    display: block;
 }
 
 .box2{
     text-align: center;
     margin-top: 100px;
+    margin-bottom: 16px;
     padding: 100px;
+    margin-bottom: 16px;
     background-color: rgb(93, 33, 204);
     color: white;
-    display: block;
     font-family: "Arial", sans-serif;
 }
 
@@ -81,11 +90,10 @@
     text-align: center;
     border-style: solid;
     border-color: black;
+    margin-bottom: 16px;
     background-color: rgb(93, 33, 204);
     color: white;
-    display: block;
     font-family: "Arial", sans-serif;
-
 }
 
 .list{

@@ -1,0 +1,237 @@
+.head{
+    color:black;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    font-family: "Arial", sans-serif;
+}
+.orange_head{
+    color: orangered;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: "Arial", sans-serif;
+}
+
+.paragraph{
+    color:black;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Arial", sans-serif;
+}
+
+.orange_paragraph{
+    color: orangered;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Arial", sans-serif;
+}
+
+.list{
+    color:black;
+    font-size: 15px;
+    font-family: "Arial", sans-serif;
+}
+
+.BOX{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    flex-wrap: wrap;
+}
+
+
+.box{
+    margin-top: 25px;
+    border-radius: 8px;
+    border: 23px;
+    width: 250px;
+    height: 100px;
+    box-shadow: 0 2px 3px black;
+    display: flex;
+    color: black;
+    font-family: "Arial", sans-serif;
+    font-size: large;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.colorblock{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    flex-wrap: wrap;
+}
+
+.colorred{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 4px;
+    background-color: red;
+}
+
+.colororange{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 4px;
+    background-color: orange;
+}
+
+.coloryellow{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 4px;
+    background-color: yellow;
+}
+
+.colorgreen{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 4px;
+    background-color: green;
+}
+
+.colorblue1{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 4px;
+    background-color: deepskyblue;
+}
+
+.colorblue2{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 4px;
+    background-color: deepskyblue;
+}
+
+.colorblue2{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 4px;
+    background-color: deepskyblue;
+}
+.colorblue3{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 4px;
+    background-color: royalblue;
+}
+
+.colorblue4{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 4px;
+    background-color: mediumblue;
+}
+
+.colorpurple{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 4px;
+    background-color: purple;
+}
+
+.colorpink{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 4px;
+    background-color: rgb(255, 21, 71);
+}
+
+.form{
+    margin-top: 20px;
+}
+
+.label1{
+    display: inline-block;
+    font-size: 14px;
+    margin-bottom: 5px;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+}
+
+.label2{
+    display: flex;
+    flex-direction: column;
+    font-size: 14px;
+    margin-bottom: 5px;
+}
+
+.btnred{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    background-color: red;
+    cursor: pointer;
+    font-size: 14px;
+    font-family: "Arial", sans-serif;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.btnblue{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(15, 121, 207);
+    cursor: pointer;
+    font-size: 14p;
+    font-family: "Arial", sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+
+.btngreen{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    background-color: green;
+    cursor: pointer;
+    font-size: 14p;
+    font-family: "Arial", sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-large{
+    margin-top: 20px;
+    color: white;
+    background-color: rgb(31, 202, 31);
+    width: 404px;
+    height: 404px;
+    display: flex;
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.box-small{
+    margin-top: 20px;
+    color: white;
+    background-color: rgb(39, 39, 255);
+    width: 20rem;
+    height: 10rem;
+    display: flex;
+    font-size: 16px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
